@@ -705,9 +705,9 @@ a {
   transition: color 0.6s;
 }
 .cid-sUTVE7bJ1f {
-  padding-top: 4rem;
-  padding-bottom: 8rem;
-  background-color: #151515;
+  padding-top: 5rem;
+  padding-bottom: 9rem;
+  background-color: #353535;
 }
 .cid-sUTVE7bJ1f .mbr-shop {
   display: table;
@@ -728,7 +728,7 @@ a {
   display: block;
 }
 .cid-sUTVE7bJ1f .mbr-gallery-item .shop-item-price {
-  font-size: 20px;
+  font-size: 21px;
   color: #e43f3f;
   width: 100%;
   letter-spacing: 2px;
@@ -736,7 +736,7 @@ a {
 }
 .cid-sUTVE7bJ1f .mbr-gallery-item .oldprice {
   color: #919dab;
-  font-size: 20px;
+  font-size: 21px;
   text-decoration: line-through;
   margin-left: 10px;
 }
@@ -748,7 +748,7 @@ a {
 .cid-sUTVE7bJ1f .mbr-gallery-item .sidebar_wraper .item-title {
   text-align: center;
   font-weight: 500;
-  font-size: 20px;
+  font-size: 21px;
   margin-top: 15px;
   margin-bottom: 0;
   letter-spacing: 2px;
@@ -1571,7 +1571,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sUTWWjcivI .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 4.4rem);
+    max-height: calc(98.5vh - 3.7rem);
   }
 }
 .cid-sUTWWjcivI .navbar.collapsed .dropdown-menu .dropdown-submenu {
