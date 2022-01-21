@@ -807,6 +807,8 @@
           },
           "_cid": "sUTVE7bJ1f",
           "_anchor": "shop6-a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
           "_protectedParams": [
             "shop__showSidebar",
             "shop__reverseSidebar",
@@ -861,6 +863,29 @@
                 "button": "<a data-app-btn=\"true\" href=\"https://opensea.io/assets/0x226bf5293692610692e2c996c9875c914d2a7f73/5\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7\" target=\"_blank\">VIEW ON OPENSEA</a>",
                 "image": "@PROJECT_PATH@/assets/images/img-2.png",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-800x800.png",
+                "customStyle5": "display-5",
+                "customStyle7": "display-7",
+                "customStyleSale": "display-4",
+                "customStyleTags": "display-4",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": "",
+                "title": ""
+              },
+              {
+                "tags": "Couch",
+                "bestSeller": false,
+                "onSale": true,
+                "oldPrice": false,
+                "itemTitle": "The Blue Bedroom",
+                "itemDescription": "Designed for the RTFKT Space Pod<div><br></div><div>Overrides and applies the following:<br>Black Glossed Display Frame</div><div>Blue baked lighting\n</div><div>RTFKT Logo Cubby Covers\n</div><div>Blue Clone X Screen\n</div><div>Animated RTFKT Plate</div><div>3D Wall RTFKT Logo\n</div><div>Blue Bed with RTFKT Logo\n</div><div>RTFKT Logo bombed pillow</div><div><br></div><div>Size: 94.5<div>\n</div><div>\n</div></div>",
+                "itemPriceTitle": "From: ",
+                "itemPrice": "?",
+                "oldPriceValue": "$82",
+                "sale": "Upcoming",
+                "button": "<a data-app-btn=\"true\" href=\"https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/106052153668488733916112683476886746629742639444862737571355425850992252420097\" data-app-placeholder=\"Type Text\" class=\"btn btn-primary display-7\" target=\"_blank\">VIEW ON OPENSEA</a>",
+                "image": "@PROJECT_PATH@/assets/images/blue.png",
+                "thumb": "@PROJECT_PATH@/assets/images/blue-800x800.png",
                 "customStyle5": "display-5",
                 "customStyle7": "display-7",
                 "customStyleSale": "display-4",
@@ -2129,9 +2154,7 @@
                 "title": ""
               }
             ]
-          },
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          }
         },
         {
           "alias": false,
