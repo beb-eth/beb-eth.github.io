@@ -1433,6 +1433,10 @@ a {
 .cid-sUTVE7bJ1f .onsale {
   color: #ffffff;
 }
+.cid-sUTVE7bJ1f .shop-item-price,
+.cid-sUTVE7bJ1f .price-block {
+  text-align: left;
+}
 .cid-sUTWWjcivI {
   z-index: 1000;
   width: 100%;
