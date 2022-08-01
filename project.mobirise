@@ -24,7 +24,7 @@
         "display4Size": 1,
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "titlePreset": "Photography Shop",
       "nameSelectPreset": "photoshopdemo",
@@ -49,8 +49,8 @@
       }
     ],
     "imageResize": true,
-    "favicon": false,
-    "mbrsiteDomain": "dhqi8hcer1",
+    "favicon": "@PROJECT_PATH@/assets/images/001-128x128.png",
+    "mbrsiteDomain": "7fazbnqgd4",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
